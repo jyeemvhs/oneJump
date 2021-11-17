@@ -1,0 +1,84 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiu9pag 8.14.1.6243]
+    Renderer: AMD Radeon HD 7470
+    Vendor:   ATI
+    VRAM:     1010 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jeffreyyee\Desktop\CSDemos\oneJump\onejump_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jeffreyyee\Desktop\CSDemos\oneJump\onejump_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jeffreyyee\Desktop\CSDemos\oneJump\onejump_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jeffreyyee\Desktop\CSDemos\oneJump\onejump_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.443870 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 456.
+Total: 1.323272 ms (FindLiveObjects: 0.029826 ms CreateObjectMapping: 0.013470 ms MarkObjects: 0.183770 ms  DeleteObjects: 0.396083 ms)
+
+Platform assembly: C:\Users\jeffreyyee\Desktop\CSDemos\oneJump\onejump_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\jeffreyyee\Desktop\CSDemos\oneJump\onejump_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\jeffreyyee\Desktop\CSDemos\oneJump\onejump_Data\Managed\System.Core.dll (this message is harmless)
+Got Bread
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Got Bread
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Got Bread
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+inSight
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+UnloadTime: 1.124429 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 137.
+Total: 3.184385 ms (FindLiveObjects: 0.012828 ms CreateObjectMapping: 0.013470 ms MarkObjects: 0.192429 ms  DeleteObjects: 2.261365 ms)
+
